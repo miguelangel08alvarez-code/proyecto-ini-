@@ -386,4 +386,4 @@ void estadisticas()
     } else {
         printf("Empate en daño\n");
     }
-}
+} 
